@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+
+
+/* Header-part */
+header{
+background: url(../img/background.png) no-repeat center center;
+background-size: cover;
+width: 100%;
+float: left;
+padding: 10px 0px;
+}
+/* Main Header */
+.main-header{
+width: 100%;
+float: left;
+padding: 10px 0px;
+    
+}
+.logo-part{
+width: 50%;
+float: left;
+}
+.logo-part img{
+
+}
+.menu-part{
+width: 50%;
+float: left;
+text-align: end;
+}
+.menu-part ul{
+margin: 10px auto;
+}
+.menu-part li{
+list-style: none;
+display: inline-block;
+}
+.menu-part a{
+text-decoration: none;
+font-size: 20px;
+font-weight: 700;
+margin: 25px;
+color: white;
+}
+/* Hero-part */
+.hero{
+width: 100%;
+float: left;
+text-align: center;
+}
+.hero h1{
+padding-top: 75px;
+}
+.hero p{
+
+}
+.hero a button{
+
+}
+.hero img{
+display: block;
+width: 200px;
+margin: auto;
+}
+/* feature section */
+#feature{
+width: 100%;
+float: left;
+}
+.feature-img-part{
+width: 30%;
+float: left;
+}
+.feature-box-part{
+width: 70%;
+float: left;
+}
+.feature-box{
+width: 100%;
+float: left;
+}
+.feature{
+width: 50%;
+float: left;
+padding: 30px;
+text-align: center;
+box-shadow: 0px 0px 5px #000 ;
+}
+/* Marketing section */
+#Marketing{
+width: 100%;
+float: left;
+}
+.Marketing-part1{
+width: 40%;
+float: left;
+}
+.Marketing-box-part{
+width: 60%;
+float: left;
+
+.Marketing-box{
+
+}
+.marketing-box-marketing-one{
+
+}
+.marketing-box-marketing-two{
+
+}
+.marketing-box-marketing-three{
+
+}
+.marketing-box-marketing-four{
+
+}
